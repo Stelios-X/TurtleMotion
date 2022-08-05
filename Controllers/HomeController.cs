@@ -16,6 +16,7 @@ namespace Pinklazer.Controllers
         public IActionResult Index()
         {
             return View();
+            //New statement
         }
 
         public IActionResult Privacy()
